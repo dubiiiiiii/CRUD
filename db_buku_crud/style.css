@@ -1,0 +1,13 @@
+.mx-auto {
+  width: 800px;
+}
+
+.card {
+  margin-top: 10px;
+}
+
+.bd-1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 10vh;
+}
